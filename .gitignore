@@ -7,7 +7,7 @@
 #
 build/
 DerivedData
-
+.build
 
 # Various settings
 #
